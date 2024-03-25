@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine learning Models<br>👯 I’m looking to collaborate on OpenCV and PyTorch projects<br>🌱 I’m currently learning Data Optimization<br>💬 Ask me about EDA(Exploratory Data Analysis) and Feature Engineering 
+🔭 I’m currently working on Machine learning Models and DSA<br>👯 I’m looking to collaborate on OpenCV and PyTorch projects<br>🌱 I’m currently learning Data Optimization<br>💬 Ask me about EDA(Exploratory Data Analysis) and Feature Engineering 
 
 
 ## 🌐 Socials:
